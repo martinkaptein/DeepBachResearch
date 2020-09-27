@@ -1,6 +1,8 @@
 # DeepBachResearch
 
-A fork of the [original DeepBach](https://github.com/Ghadjeres/DeepBach) (which can be found [here](https://github.com/Ghadjeres/DeepBach)) **with exactly the version and adjustements I have used for my bachelor research at the ArtEz conservatory in Zwolle**.
+A fork of the [original DeepBach](https://github.com/Ghadjeres/DeepBach) (which can be found [here](https://github.com/Ghadjeres/DeepBach)) **with exactly the version and adjustements I have used for my bachelor research at the ArtEz conservatory in Zwolle, The Netherlands**.
+
+The research paper can be found on my website. [Here](https://www.martinkaptein.com/files/research_bach_mk_2019.pdf) is the direct link to it.
 
 # Instructions
 
@@ -13,7 +15,7 @@ sudo pip3 install -r requirements.txt
 ```
 # Adjustements
 
-The adjustments, I am talking about in my research can be invoked in the following way:
+The adjustments, I am talking about in my research paper can be invoked in the following way:
 
 ## Version 1
 
